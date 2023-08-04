@@ -7,4 +7,4 @@ npm i express
 npm i axios
 npm i express-handlebars
 use the api key from the 'newsapikey.txt' file 
-the CSS files and images are stored in the public directory
+the CSS files and images are stored in the public directory.
